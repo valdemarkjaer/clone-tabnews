@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Jaqueline, amo você. Se você me ama, dá uma risadinha - deploy 2 para testar teste vercel
+    return <h1>Deploy final. Apenas para constar, o curso é muito, mas muito bom mesmo. Didática 110%. Parabéns!
     </h1>
 }
 
