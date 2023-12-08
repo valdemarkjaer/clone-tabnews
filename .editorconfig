@@ -1,0 +1,11 @@
+root = true
+#Cada pasta do diretorio pode ter um arquivo editorconfig. Esse arquivo tem suas regras próprias.
+#Depois disso, o editor sobe para pasta acima da hierarquia e pega o editorconfig dela com outras
+#informações, e assim sucessivamente, até chegar num arquivo .editorconfig onde tem root=true
+
+[*]
+indent_style = space
+indent_size = 2
+
+# o [*] significa que as configurações abaixo servem para todos os arquivos.
+# baixar o EditorConfig para VSCode nas extensões
