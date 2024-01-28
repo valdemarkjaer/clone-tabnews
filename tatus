@@ -1,0 +1,93 @@
+[33mcommit 58a8c57e603a35362631a7cafc7c9b7cad5be1d6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Valdemar Katayama Kjaer <valdemarkjaer@gmail.com>
+Date:   Sun Jan 21 14:02:19 2024 +0000
+
+    jan24
+
+ pages/index.js | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit c62b1fc496027bbe7cbec5db10fcb7c0f2a84a61[m
+Author: Valdemar Katayama Kjaer <valdemarkjaer@gmail.com>
+Date:   Fri Dec 8 03:12:51 2023 +0000
+
+    adiciona scripts `lint:check` e `lint:fix`
+
+ README.md         |  1 [32m+[m
+ package-lock.json | 18 [32m++++++++++++++++++[m
+ package.json      |  7 [32m++++++[m[31m-[m
+ pages/index.js    |  8 [32m++++++[m[31m--[m
+ 4 files changed, 31 insertions(+), 3 deletions(-)
+
+[33mcommit c381f3db2b0f3c6063b8fc596ec05af75d7355f0[m
+Author: Valdemar Katayama Kjaer <valdemarkjaer@gmail.com>
+Date:   Fri Dec 8 02:48:11 2023 +0000
+
+    adiciona arquivo `.editorconfig`
+
+ .editorconfig | 11 [32m+++++++++++[m
+ 1 file changed, 11 insertions(+)
+
+[33mcommit 5a88276719d6a346e9a82a2fba6e7b925a089f37[m
+Author: Valdemar Katayama Kjaer <valdemarkjaer@gmail.com>
+Date:   Fri Dec 1 23:20:20 2023 +0000
+
+    Desafio final
+
+ pages/index.js | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 56f1bceab8ca19c690d3ff2d3d3afa38e6b50460[m
+Author: Valdemar Katayama Kjaer <valdemarkjaer@gmail.com>
+Date:   Fri Dec 1 23:00:08 2023 +0000
+
+    modifica a frase
+
+ pages/index.js | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit e03047a72c52ebe78f1d95ee82a896b32d188e3c[m
+Author: Valdemar Katayama Kjaer <valdemarkjaer@gmail.com>
+Date:   Tue Nov 21 20:58:22 2023 +0000
+
+    Adiciona pagina inicial e corrige mensagem do index.js
+
+ pages/index.js | 6 [32m++++++[m
+ 1 file changed, 6 insertions(+)
+
+[33mcommit b504424aea2f7ab0cd809ac5ed64e42722ff5995[m
+Author: Valdemar Katayama Kjaer <valdemarkjaer@gmail.com>
+Date:   Tue Nov 21 20:55:31 2023 +0000
+
+    adiciona os arquivos de manifesto
+
+ package-lock.json | 428 [32m++++++++++++++++++++++++++++++[m
+ package.json      |  16 [32m++[m
+ 2 files changed, 444 insertions(+)
+
+[33mcommit b0607d666e8b21da8f14e5cfe082811e4e7c65e4[m
+Author: Valdemar Katayama Kjaer <valdemarkjaer@gmail.com>
+Date:   Tue Nov 21 20:48:16 2023 +0000
+
+    adiciona arquivo .nvmrc
+
+ .nvmrc | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 99041b1d99846d052f6a8e7fba7d9bf7f7f3efb2[m
+Author: Valdemar Katayama Kjaer <valdemarkjaer@gmail.com>
+Date:   Sun Nov 19 22:08:02 2023 +0000
+
+    adicionado arquivo .gitignore, contendo o framework .next e o node_modules. Foi usado git commit --amend para reescrever o primeiro git commit sem fazer um novo commit ocupando espaco. Amend simplesmente apaga a versao anterior e coloca a nova. Isso faz o git ignorar o next em seus commits.
+
+ .gitignore | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit a584a1c592e061efc8ae1a9851b9ee8a6bccfcd8[m
+Author: Valdemar Katayama Kjaer <valdemarkjaer@gmail.com>
+Date:   Wed Nov 15 23:02:10 2023 -0400
+
+    Initial commit
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
