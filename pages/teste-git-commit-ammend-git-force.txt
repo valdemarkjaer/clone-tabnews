@@ -1,0 +1,9 @@
+teste-git-commit-ammend-git-force
+Esse arquivo vai ser primeiro add e commitado
+Daí vou fazer um commit --ammend pra retroceder no tempo e apagar o commit original, trocando-o pelo novo
+Na minha máquina local vai acontecer o ammend porque é a minha máquinha, mas
+Quando der um commit push, pra botar o arquivo corrigido na main branch remota, devo ter erro do github (ilegal)
+Pra forçar a barra, fazer commit -f
+Deve ter mensagem de alerta, mas vai ser feito
+Não usar isso de rotina!!!
+Em trabalho em equipe, evitar ao máximo fazer --ammend e push -f
