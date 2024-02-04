@@ -7,3 +7,8 @@ Pra forçar a barra, fazer commit -f
 Deve ter mensagem de alerta, mas vai ser feito
 Não usar isso de rotina!!!
 Em trabalho em equipe, evitar ao máximo fazer --ammend e push -f
+
+AGORA EU MUDEI O ARQUIVO ORIGINAL E SALVEI.
+Vou fazer commit --ammend na máquina local e vai dar certo.
+Depois vou fazer push e vai dar errado.
+Aí vou fazer push -f pra forçar subir no servidor.
